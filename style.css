@@ -1,0 +1,41 @@
+body {
+    background-image:linear-gradient(to right, purple, pink, #ffbc05 )   
+}
+
+.social {
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 10rem;
+    border: white;
+}
+
+.one {
+    margin: auto;
+    padding-left: 10px;
+    border: 1px black;
+    background-color: rgb(255, 250, 250);
+    text-align: left;
+    font-size: 23px;
+    width: 20rem;
+    padding: 7px;
+  }
+
+  .social2 {
+    margin: auto;
+    border: 1px black;
+    background-color: white;
+    font-size: 23px;
+    width: 20rem;
+    padding: 7px;
+  }
+
+  .social2 img {
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin-left: 3px;
+    padding: 5px;
+    display: block;
+    margin-top: auto;
+    
+  }
